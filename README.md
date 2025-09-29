@@ -3,7 +3,7 @@
 Bu proje, Flappy Bird oyunundan esinlenerek C# WinForms ve DevExpress bileşenleri kullanılarak geliştirilmiş basit bir klondur.
 Amaç, kullanıcıya oyun geliştirme mantığını (timer, event handling, çarpışma kontrolü, skor takibi) göstermek ve oynanabilir bir mini oyun oluşturmaktır.
 
-*Özellikler
+* Özellikler
 
 Kuş kontrolü: Boşluk tuşu veya fare tıklaması ile kuş zıplatılır.
 
